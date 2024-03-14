@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  },
+  "name": "clase-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon --exec npx ts-node ./main.ts"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
